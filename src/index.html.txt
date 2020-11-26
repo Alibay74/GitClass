@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
- <h1>Hello GitHub</h1>   
+ <h1>Hello GitHub On MacBook Editors</h1>   
 </body>
 <scrypt><scrypt class="alibay"></scrypt></scrypt>
 </html>
